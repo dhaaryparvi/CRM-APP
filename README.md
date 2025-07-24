@@ -10,6 +10,20 @@ A mini Customer Relationship Management (CRM) system built with **ReactJS**, **R
 
 ---
 
+---
+
+## 🔐 Login Credentials
+
+### 🚀 **API Login**
+Username: kminchelle
+Password: 0lelplR
+
+
+
+### 🧪 **Demo Login**
+Username: testuser
+Password: password123
+
 ## 🚀 Features
 
 - 🔐 **Login Authentication** with dummy credentials
