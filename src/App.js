@@ -6,11 +6,14 @@ import Products from './pages/Products';
 import PrivateRoute from './routes/PrivateRoute';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import { Toaster } from 'react-hot-toast';
 
 function App() {
   return (
     <>
+    <Toaster position="top-center" reverseOrder={false} />
       <ToastContainer />
+       
     <Router>
       <Routes>
         <Route path="/login" element={<Login />} />

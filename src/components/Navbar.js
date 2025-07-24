@@ -13,10 +13,10 @@ const Navbar = () => {
   };
 
   return (
-    <nav style={{ background: '#eee', padding: '1rem' }}>
-      <Link to="/dashboard" style={{ marginRight: '1rem' }}>Dashboard</Link>
-      <Link to="/products" style={{ marginRight: '1rem' }}>Products</Link>
-      <button onClick={handleLogout}>Logout</button>
+    <nav className='bg-gray-800 text-white p-4 flex justify-center  items-center'>
+      <Link to="/dashboard" className='mr-4'>Dashboard</Link>
+      <Link to="/products" className='mr-4'>Products</Link>
+      <button onClick={handleLogout} className='bg-red-500 px-4 py-2 rounded'>Logout</button>
     </nav>
   );
 };
