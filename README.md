@@ -4,10 +4,16 @@ A mini Customer Relationship Management (CRM) system built with **ReactJS**, **R
 
 ---
 
+## 🌐 Live Demo
+
+🔗 **[Live Website](https://voluble-pastelito-7bc3a7.netlify.app/)**
+
+---
+
 ## 🚀 Features
 
 - 🔐 **Login Authentication** with dummy credentials
-- 📊 **Dashboard with Graph** (static/dynamic chart)
+- 📊 **Dashboard with Graph**
 - 📦 **Product Management (CRUD)**
   - Add Product (Modal)
   - Edit Product (Modal)
@@ -20,15 +26,6 @@ A mini Customer Relationship Management (CRM) system built with **ReactJS**, **R
 
 ---
 
-## 📸 Screenshots
-
-> 📍 Login Page  username-testuser password-password123 
-> 📍 Dashboard with Graph  
-> 📍 Product Table with Edit/Delete icons  
-> 📍 Modals and Toasts in Action
-
----
-
 ## 🧑‍💻 Tech Stack
 
 - ReactJS
@@ -37,7 +34,7 @@ A mini Customer Relationship Management (CRM) system built with **ReactJS**, **R
 - Tailwind CSS
 - React Hook Form
 - React Hot Toast
-- Chart.js
+- Chart.js / Recharts
 - DummyJSON API
 
 ---
